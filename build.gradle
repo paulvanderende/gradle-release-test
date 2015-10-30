@@ -1,5 +1,7 @@
 apply plugin: "commercial-plugin"
 
+group = 'com.paul.test'
+
 release {
     // inheritVersion = "xlDeployVersion"
 }
